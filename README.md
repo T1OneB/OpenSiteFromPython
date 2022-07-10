@@ -1,4 +1,5 @@
-<img src="resources/img.png" width="200" height="50"/>
+<img src="resource/img.png" width="2500" height="250"/>
+
 # Open Site From Python💎
 **This script allows you to complete your work...**
 ## Installing 🎱
